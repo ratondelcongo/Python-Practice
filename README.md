@@ -33,4 +33,4 @@
 
 
 ----------------------
-### ***This isn't my work, this has been taken and adapted from[darkprinx](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended) for my online students.***
+### ***This isn't my work, this has been taken and adapted from [darkprinx](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended) for my online students.***
