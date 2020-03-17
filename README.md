@@ -15,7 +15,7 @@
 
 * ***Question***
 * ***Hints***
-* ***Solution***
+* ***Solution (this will be inside a folder, "solutions", in the next days)*** 
 
 -----------------
 
