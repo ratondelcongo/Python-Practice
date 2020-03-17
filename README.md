@@ -31,6 +31,3 @@
 
 * **[Day 5](https://github.com/ratondelcongo/Python-Practice/blob/master/Problems/Day%205.md "Day 5 Status")**- ***Question 16-17***
 
-
-----------------------
-### ***This isn't my work, this has been taken and adapted from [darkprinx](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended) for my online students.***
