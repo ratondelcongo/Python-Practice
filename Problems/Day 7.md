@@ -10,10 +10,6 @@
 >***Consider use class, function and comprehension.***
 
 -------------------
-**Main author's Solution: Python 2**
-#### ***The solution code for this problem was not as reltive to as the problem mentioned and there was a typing mistake while calling the function.***
-
-----------------
 # Question 21
 
 ### **Question:**
