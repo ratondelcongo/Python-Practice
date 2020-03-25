@@ -31,3 +31,11 @@
 
 * **[Day 5](https://github.com/ratondelcongo/Python-Practice/blob/master/Problems/Day%205.md "Day 5 Status")**- ***Question 16-17***
 
+* **[Day 6](https://github.com/ratondelcongo/Python-Practice/blob/master/Problems/Day%206.md "Day 6 Status")**- ***Question 16-17***
+
+* **[Day 7](https://github.com/ratondelcongo/Python-Practice/blob/master/Problems/Day%207.md "Day 7 Status")**- ***Question 16-17***
+
+* **[Day 8](https://github.com/ratondelcongo/Python-Practice/blob/master/Problems/Day%208.md "Day 8 Status")**- ***Question 16-17***
+
+* **[Day 9](https://github.com/ratondelcongo/Python-Practice/blob/master/Problems/Day%209.md "Day 9 Status")**- ***Question 16-17***
+
