@@ -10,18 +10,9 @@
 
 ----------------
 
-# 100+ Python challenging programming exercises
-
-
-## 1. Problem Template
-
-* ***Question***
-* ***Hints***
-* ***Solution (this will be inside a folder, "solutions", in the next days)*** 
-
 -----------------
 
-## 2. Practice Status
+## Practice Status
 
 * **[Day 1](https://github.com/ratondelcongo/Python-Practice/blob/master/Problems/Day%201.md "Day 1 Status")**- ***Question 1-3***
 
